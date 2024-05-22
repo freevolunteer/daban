@@ -1,0 +1,14 @@
+[
+  {
+    "comment": "主板异动打板",
+    "holdCnt": 4,
+    "amt": 10000,
+    "vol": 0,
+    "bWait": 3600,
+    "sec": 6,
+    "raTh": 8,
+    "raRate": 0.125,
+    "tnRate": 0.005,
+    "stockAmt": 20
+  }
+]
